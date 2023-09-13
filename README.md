@@ -1,2 +1,2 @@
-# biological_networks
+# Biological Networks
 Mathematics of Biological Networks
