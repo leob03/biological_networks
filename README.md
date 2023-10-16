@@ -1,7 +1,5 @@
 # Mathematics of Biological Networks
 
-Description: 
-
 Class implementations of Data-guided modeling, analysis, and visualization of networks to understanding and
 controlling biological processes. Subjects explored: 
 
