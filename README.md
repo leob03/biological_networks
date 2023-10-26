@@ -15,3 +15,11 @@ How do cell and tissue functions emerge from dynamical forces within (genome) an
 <p align="center">
   <img src="./img/Hi_C.png" alt="Image Description" width="500" height="350">
 </p>
+
+<p align="center">
+  <img src="./img/clusters.png" alt="Image Description" width="900" height="250">
+</p>
+
+<p align="center">
+  <img src="./img/pb2_output.png" alt="Image Description" width="350" height="350">
+</p>
